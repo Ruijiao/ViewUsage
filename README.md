@@ -1,9 +1,8 @@
 # ViewUsage
 ## 用于总结一些View的方便用法
+
 ### 1、一个带有图标和文字的控件
-
- ![例如这样的](https://github.com/Ruijiao/ViewUsage/blob/master/TextView%E7%89%B9%E6%AE%8A%E7%94%A8%E6%B3%95.png)
-
+![](https://github.com/Ruijiao/ViewUsage/blob/master/resouce/i_loading.png)
 用一个TextView即可搞定
 
     <TextView
@@ -21,8 +20,7 @@
           android:textSize=""11dip"" />
 
 ### 2、一个旋转图标，例如加载中的提示git图
-![](https://github.com/Ruijiao/ViewUsage/blob/master/g_loading.gif)
-
+![](https://github.com/Ruijiao/ViewUsage/blob/master/resouce/g_loading.gif)
  可以用 ProgressBar 控件
 
          <ProgressBar
