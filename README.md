@@ -21,7 +21,9 @@
           android:textSize=""11dip"" />
 
 ### 2、一个旋转图标，例如加载中的提示git图
-可以用 ProgressBar 控件
+![](https://github.com/Ruijiao/ViewUsage/blob/master/g_loading.gif)
+
+ 可以用 ProgressBar 控件
 
          <ProgressBar
             android:layout_width="80dp"
