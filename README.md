@@ -2,7 +2,9 @@
 ## 用于总结一些View的方便用法
 
 ### 1、一个带有图标和文字的控件
+
 ![](https://github.com/Ruijiao/ViewUsage/blob/master/resouce/i_loading.png)
+
 用一个TextView即可搞定
 
     <TextView
@@ -20,7 +22,9 @@
           android:textSize=""11dip"" />
 
 ### 2、一个旋转图标，例如加载中的提示git图
+
 ![](https://github.com/Ruijiao/ViewUsage/blob/master/resouce/g_loading.gif)
+
  可以用 ProgressBar 控件
 
          <ProgressBar
